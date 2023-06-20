@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Windows.Input;
 
-namespace WetterApp
+namespace WetterApp.ViewModels
 {
     public class WeatherViewModel : INotifyPropertyChanged
     {
